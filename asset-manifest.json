@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/elterngeld/static/css/main.073c9b0a.css",
+    "main.js": "/elterngeld/static/js/main.af0b0c75.js",
+    "static/js/787.e79c384a.chunk.js": "/elterngeld/static/js/787.e79c384a.chunk.js",
+    "static/media/logo.svg": "/elterngeld/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/elterngeld/index.html",
+    "main.073c9b0a.css.map": "/elterngeld/static/css/main.073c9b0a.css.map",
+    "main.af0b0c75.js.map": "/elterngeld/static/js/main.af0b0c75.js.map",
+    "787.e79c384a.chunk.js.map": "/elterngeld/static/js/787.e79c384a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af0b0c75.js"
+  ]
+}
